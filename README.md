@@ -1,12 +1,12 @@
 # 💫About Me :
 
-- 🔭 I’m an offensive security passionate working at [Red Hat](https://www.redhat.com/en)  
+- 🔭 I’m an offensive security professional working at [Red Hat](https://www.redhat.com/en)  
   
 
--  🔎 I’m a Qiskit Advocate for [Quantum Technologies](https://www.credly.com/badges/51ee20e5-c38e-4b91-9eb1-938de6d037ef)   
+-  🔎 I’m a Qiskit Advocate for [IBM Quantum Technologies](https://www.credly.com/badges/51ee20e5-c38e-4b91-9eb1-938de6d037ef)   
   
 
-- 📖 I recently wrote a book on Offensive Quantum Computing. Available at [Amazon](https://www.amazon.com/Introduction-Adversarial-Quantum-Computing-Practice-ebook/dp/B09YMJXQTX/ref=sr_1_1?crid=3VZONRJBAP2G3&keywords=fernando+velazquez+quantum&qid=1654154138&sprefix=%2Caps%2C138&sr=8-1)!!  
+- 📖 I wrote a book on Offensive Quantum Computing. Available at [Amazon](https://www.amazon.com/Introduction-Adversarial-Quantum-Computing-Practice-ebook/dp/B09YMJXQTX/ref=sr_1_1?crid=3VZONRJBAP2G3&keywords=fernando+velazquez+quantum&qid=1654154138&sprefix=%2Caps%2C138&sr=8-1)!!  
   
 
 - ⚡ I publish articles on technology topics at  [Meer](https://www.meer.com/en/authors/390-fernando-velazquez)
