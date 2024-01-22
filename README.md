@@ -12,7 +12,7 @@
 - ⚡ I publish articles on technology topics at  [Meer](https://www.meer.com/en/authors/390-fernando-velazquez)
   
 
-- 📖 I am an active Web3 auditor at CodeHawks, Sherlock and Cantina.
+- :sparkles: I am an active Web3 auditor at CodeHawks, Sherlock and Cantina.
 
 
 
