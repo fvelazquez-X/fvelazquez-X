@@ -15,7 +15,7 @@
 - :sparkles: I am an active Web3 auditor at CodeHawks, Sherlock and Cantina.
 
 
-# ** Smart contract audit statistics**
+# Smart contract audits statistics:
 
 | Status    | Protocol Name | Platform  | High | Medium | Low |
 |-----------|---------------|-----------|------|--------|-----|
